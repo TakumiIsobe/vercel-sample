@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/real-estate", {data:[{}],fetch:{},mutations:void 0});
